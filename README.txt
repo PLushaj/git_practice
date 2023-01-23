@@ -1,2 +1,2 @@
 Hello Git and GitHub
-Si jeni
+Si jeni a jeni mire dhe qka po beni
